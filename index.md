@@ -14,7 +14,7 @@ Syntax highlighted code block
 
 # Essence's first CS193 Lab!
 
-### Here are some of my favorite things about CS193 so far!
+## Here are some of my favorite things about CS193 so far!
 - I have some amigos in this class
 - I just enjoy labs in general
 - I like github!
